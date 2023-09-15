@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![candy crush](https://github.com/Kashaf-code/Candy-crush/assets/143132945/463ad7a9-19dc-4766-85b9-24b7d661226a)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
